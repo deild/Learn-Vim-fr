@@ -1,23 +1,32 @@
-> # Apprendre Vim (de manière intelligente)
-> **🌐 This is the french translation of the book "Learn Vim (the Smart Way)"**
->
-> [Click here for French version](README_fr.md)
->
-> Translations are inside files ending with _fr.
-> Everything else should be remaining as the English Book *(except some necessary files, like this README.md)*.
-
+<!--
 # Learn Vim (the Smart Way)
-
+-->
+# Apprendre Vim (de manière intelligente)
+<!--
 ## What is this about?
-
+-->
+## De quoi est-il question ?
+<!--
 *Learn Vim (the Smart Way)* is a book to learn the good parts of Vim.
-
+-->
+*Apprendre Vim (de manière intelligente)* est un livre pour apprendre les bons côtés de Vim.
+<!--
 Follow [@learnvim](https://twitter.com/learnvim) for updates, Vim tips, etc.
-
+-->
+Suivez [@learnvim](https://twitter.com/learnvim) pour les mises à jour, les conseils sur Vim, etc.
+<!--
 ## Table Of Contents (In Progress)
+-->
 
+## Table des matières (en cours)
+
+<!--
 ### Part 1: Learn Vim the Smart Way (DONE)
+-->
 
+### Partie 1 : Apprendre Vim de manière intelligente (TERMINE)
+
+<!--
 - [Ch 1     - Starting Vim](./ch01_starting_vim.md)
 - [Ch 2     - Buffers, Windows, and Tabs](./ch02_buffers_windows_tabs.md)
 - [Ch 3     - Opening and Searching Files](./ch03_opening_and_searching_files.md)
@@ -38,27 +47,59 @@ Follow [@learnvim](https://twitter.com/learnvim) for updates, Vim tips, etc.
 - [Ch 18    - Git](./ch18_git.md)
 - [Ch 19    - Compile](./ch19_compile.md)
 - [Ch 20    - Views, Sessions, and Viminfo](./ch20_views_sessions_viminfo.md)
+-->
 
+<!--
 ### Part 2: Customize Vim the Smart Way (DONE)
+-->
 
+### Partie 2 : Personnaliser Vim de manière intelligente (TERMINE)
+
+<!--
 - [Ch 21 - Vimrc](./ch21_vimrc.md)
 - [Ch 22 - Vim Packages](./ch22_vim_packages.md)
 - [Ch 23 - Vim Runtime](./ch23_vim_runtime.md)
+-->
 
+<!--
 ### Part 3: Learn Vimscript the Smart Way (TBD)
+-->
 
+### Partie 3 : Apprendre Vimscript de manière intelligente (en cours)
+
+<!--
 - [Ch 24 - Vimscript Basic Data Types](./ch24_vimscript_basic_data_types)
-- [Ch 25 - Vimscript Basic Expressions](./ch25_vimscript_equalities_conditionals_and_loops.md)
+- Ch 25 - Vimscript Basic Expressions
 - Ch 26 - Vimscript Variable Scopes
 - Ch 27 - Vimscript Functions
+- Ch 28+ - ?
+-->
 
+<!--
 # Translations
 - [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
 - [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
+-->
 
+# Traductions
+
+- [Learn-Vim English](https://github.com/iggredible/Learn-Vim)(`fr`)
+- [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
+- [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
+
+<!--
 # License & Copyright
 The materials here are all ©2020 Igor Irianto.
+-->
 
+# Licence et droit d'auteur
+
+Les documents ici sont tous ©2020 Igor Irianto.
+<!--
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />
-
+-->
+[<img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" />](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<!--
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.
+-->
+Ce travail est sous licence [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
