@@ -26,8 +26,9 @@ Suivez [@learnvim](https://twitter.com/learnvim) pour les mises à jour, les con
 
 ### Partie 1 : Apprendre Vim de manière intelligente (TERMINE)
 
+- [Ch 1     - Démarrage de Vim](./ch01_starting_vim.md)
+
 <!--
-- [Ch 1     - Starting Vim](./ch01_starting_vim.md)
 - [Ch 2     - Buffers, Windows, and Tabs](./ch02_buffers_windows_tabs.md)
 - [Ch 3     - Opening and Searching Files](./ch03_opening_and_searching_files.md)
 - [Ch 4     - Vim Grammar](./ch04_vim_grammar.md)
@@ -48,6 +49,8 @@ Suivez [@learnvim](https://twitter.com/learnvim) pour les mises à jour, les con
 - [Ch 19    - Compile](./ch19_compile.md)
 - [Ch 20    - Views, Sessions, and Viminfo](./ch20_views_sessions_viminfo.md)
 -->
+
+- [Ch 1     - Démarrage de Vim](./ch01_starting_vim_fr.md)
 
 <!--
 ### Part 2: Customize Vim the Smart Way (DONE)
