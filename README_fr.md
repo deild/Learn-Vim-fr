@@ -83,7 +83,7 @@ Suivez [@learnvim](https://twitter.com/learnvim) pour les mises à jour, les con
 
 # Traductions
 
-- [Learn-Vim English](https://github.com/iggredible/Learn-Vim)(`fr`)
+- [Learn-Vim English](https://github.com/iggredible/Learn-Vim)(`en`)
 - [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
 - [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
 
