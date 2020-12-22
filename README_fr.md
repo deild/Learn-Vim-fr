@@ -69,7 +69,7 @@ Suivez [@learnvim](https://twitter.com/learnvim) pour les mises à jour, les con
 
 <!--
 - [Ch 24 - Vimscript Basic Data Types](./ch24_vimscript_basic_data_types)
-- Ch 25 - Vimscript Basic Expressions
+- [Ch 25 - Vimscript Basic Expressions](./ch25_vimscript_equalities_conditionals_and_loops.md)
 - Ch 26 - Vimscript Variable Scopes
 - Ch 27 - Vimscript Functions
 - Ch 28+ - ?
